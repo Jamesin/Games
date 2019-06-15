@@ -1,4 +1,4 @@
-# Proyecto de juego del libro Python Crash Course
+# Proyecto de juego del libro Python Crash Course, 2nd Edition
 
 
 - El archivo principal es alien_invasion, los demás son módulos. Se deben colocar todos en la misma carpeta y crear una subcarpeta "images" para los .bmp
